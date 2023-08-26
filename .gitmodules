@@ -1,0 +1,9 @@
+[submodule "teams-backend"]
+	path = teams-backend
+	url = https://github.com/JKP-2001/MS-Teams-New-Backend.git
+[submodule "chat_server"]
+	path = chat_server
+	url = https://github.com/JKP-2001/Chatting-Socket.git
+[submodule "teams_frontend"]
+	path = teams_frontend
+	url = https://github.com/JKP-2001/MS_Teams_Frontend.git
